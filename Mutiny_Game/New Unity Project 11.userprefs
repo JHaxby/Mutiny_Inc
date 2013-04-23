@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraSwitcher.cs">
+    <Files>
+      <File FileName="Assets\CameraHolder.cs" Line="15" Column="1" />
+      <File FileName="Assets\CameraSwitcher.cs" Line="8" Column="21" />
+      <File FileName="Assets\Movement.cs" Line="6" Column="31" />
+      <File FileName="Assets\WaypointDestroyer.cs" Line="21" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
